@@ -1,0 +1,11 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.ComponentModel.DataAnnotations;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using System.ComponentModel.DataAnnotations.Schema;
+global using Microsoft.EntityFrameworkCore;
+global using WarehouseManagmentSystem_API.infrastructure.Entities;
+global using WarehouseManagmentSystem_API.infrastructure.Entities.BaseClasses;
+global using WarehouseManagmentSystem_API.infrastructure.FluentApi;
