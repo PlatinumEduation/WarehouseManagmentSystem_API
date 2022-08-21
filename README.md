@@ -8,5 +8,6 @@ https://github.com/HeshamD/WarehouseManagmentSystem_API/blob/0601d84d8eca39c3cb5
 
 >> Object-Relational-Mapping (Using Entity Framework (EF) )
 
+. Using the EF validation for the Entities's properties
 
 >> Database >> MS SQL Server & MonogoDB for cloud hosting.
